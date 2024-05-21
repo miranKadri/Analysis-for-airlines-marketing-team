@@ -117,3 +117,6 @@ Below are fields in the order that they appear on the records:
 | Div5LongestGTime           | Longest Ground Time Away from Gate at Diverted Airport Code5 |
 | Div5WheelsOff              | Wheels Off Time (local time: hhmm) at Diverted Airport Code5 |
 | Div5TailNum                | Aircraft Tail Number for Diverted Airport Code5 |
+
+# 
+"main.ipynb" will show how the analysis was done and there is a pdf as well to report insights obtained from our analysis. 
