@@ -1,3 +1,7 @@
+# AIM
+The aim of this analysis is to know which flight performs well overall in the market. This study gives understanding of how factors affect their flight bookings and ultimately their revenue.
+Let's see how our data looks like ....
+
 # RECORD LAYOUT
 
 Below are fields in the order that they appear on the records:
